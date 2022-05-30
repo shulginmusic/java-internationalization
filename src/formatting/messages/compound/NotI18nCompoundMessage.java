@@ -1,4 +1,4 @@
-package formatting.messages;
+package formatting.messages.compound;
 
 import java.util.Locale;
 import java.util.ResourceBundle;
